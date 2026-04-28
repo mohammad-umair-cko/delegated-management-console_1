@@ -46,4 +46,9 @@ echo "U08EWPUTW59" > gojo_satoru.txt
 
 cat gojo_satoru.txt
 
+echo "──────────────────────────────────────"
+echo "  Test echo."
+echo "──────────────────────────────────────"
+
+
 exit 0
