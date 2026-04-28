@@ -44,4 +44,6 @@ echo ""
 
 echo "U08EWPUTW59" > gojo_satoru.txt
 
+cat gojo_satoru.txt
+
 exit 0
